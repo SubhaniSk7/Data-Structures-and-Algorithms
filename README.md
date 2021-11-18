@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 
-# Books
+## Books
 1. Competitive Programmer’s Handbook [Link](https://cses.fi/book/book.pdf)
-# Visualization
+## Visualization
 1. [Link](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
